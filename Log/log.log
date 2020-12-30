@@ -139,3 +139,34 @@
 [INFO 2020-12-30 18:31:11]初始化配置文件, path=D:\pycharmpro\API_Automation\Conf\config.ini
 [INFO 2020-12-30 18:31:11]解析yaml, Path:D:\pycharmpro\API_Automation/Params/Param/Login.yaml
 [INFO 2020-12-30 18:31:13]邮件发送成功
+[INFO 2020-12-30 18:45:32]解析yaml, Path:D:\pycharmpro\API_Automation/Params/Param/Login.yaml
+[INFO 2020-12-30 18:46:43]解析yaml, Path:D:\pycharmpro\API_Automation/Params/Param/Login.yaml
+[INFO 2020-12-30 18:48:20]解析yaml, Path:D:\pycharmpro\API_Automation/Params/Param/Login.yaml
+[INFO 2020-12-30 18:49:30]解析yaml, Path:D:\pycharmpro\API_Automation/Params/Param/Login.yaml
+[INFO 2020-12-30 18:50:08]解析yaml, Path:D:\pycharmpro\API_Automation/Params/Param/Login.yaml
+[INFO 2020-12-30 18:50:43]解析yaml, Path:D:\pycharmpro\API_Automation/Params/Param/Login.yaml
+[INFO 2020-12-30 18:51:19]解析yaml, Path:D:\pycharmpro\API_Automation/Params/Param/Login.yaml
+[INFO 2020-12-30 18:53:36]解析yaml, Path:D:\pycharmpro\API_Automation/Params/Param/Login.yaml
+[INFO 2020-12-30 18:57:30]解析yaml, Path:D:\pycharmpro\API_Automation/Params/Param/Login.yaml
+[INFO 2020-12-30 18:59:54]解析yaml, Path:D:\pycharmpro\API_Automation/Params/Param/Login.yaml
+[ERROR 2020-12-30 18:59:54]statusCode error, expected_code is 200, statusCode is 400 
+[INFO 2020-12-30 19:01:09]解析yaml, Path:D:\pycharmpro\API_Automation/Params/Param/Login.yaml
+[INFO 2020-12-30 19:03:25]解析yaml, Path:D:\pycharmpro\API_Automation/Params/Param/Login.yaml
+[ERROR 2020-12-30 19:03:25]Response body Does not contain expected_msg, expected_msg is access_token
+[INFO 2020-12-30 19:04:58]解析yaml, Path:D:\pycharmpro\API_Automation/Params/Param/Login.yaml
+[INFO 2020-12-30 19:05:37]解析yaml, Path:D:\pycharmpro\API_Automation/Params/Param/Login.yaml
+[ERROR 2020-12-30 19:05:38]Response body Does not contain expected_msg, expected_msg is access_token
+[INFO 2020-12-30 19:06:04]解析yaml, Path:D:\pycharmpro\API_Automation/Params/Param/Login.yaml
+[INFO 2020-12-30 19:06:28]解析yaml, Path:D:\pycharmpro\API_Automation/Params/Param/Login.yaml
+[ERROR 2020-12-30 19:06:28]Response body Does not contain expected_msg, expected_msg is access_token
+[INFO 2020-12-30 19:09:19]初始化配置文件, path=D:\pycharmpro\API_Automation\Conf\config.ini
+[INFO 2020-12-30 19:09:19]解析yaml, Path:D:\pycharmpro\API_Automation/Params/Param/Login.yaml
+[ERROR 2020-12-30 19:09:19]Response body Does not contain expected_msg, expected_msg is access_token
+[INFO 2020-12-30 19:09:21]邮件发送成功
+[INFO 2020-12-30 19:12:00]初始化配置文件, path=D:\pycharmpro\API_Automation\Conf\config.ini
+[INFO 2020-12-30 19:12:01]解析yaml, Path:D:\pycharmpro\API_Automation/Params/Param/Login.yaml
+[ERROR 2020-12-30 19:12:01]Response body Does not contain expected_msg, expected_msg is access_token
+[INFO 2020-12-30 19:12:03]邮件发送成功
+[INFO 2020-12-30 19:17:55]初始化配置文件, path=D:\pycharmpro\API_Automation\Conf\config.ini
+[INFO 2020-12-30 19:17:55]解析yaml, Path:D:\pycharmpro\API_Automation/Params/Param/Login.yaml
+[INFO 2020-12-30 19:18:01]邮件发送成功

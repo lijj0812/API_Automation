@@ -2,3 +2,9 @@
 [ERROR 2020-12-30 14:57:00]statusCode error, expected_code is 208, statusCode is 503 
 [ERROR 2020-12-30 16:28:21]Response time > expected_time, expected_time is 100, time is 651.674
 [ERROR 2020-12-30 17:59:42]Response body Does not contain expected_msg, expected_msg is access_token1
+[ERROR 2020-12-30 18:59:54]statusCode error, expected_code is 200, statusCode is 400 
+[ERROR 2020-12-30 19:03:25]Response body Does not contain expected_msg, expected_msg is access_token
+[ERROR 2020-12-30 19:05:38]Response body Does not contain expected_msg, expected_msg is access_token
+[ERROR 2020-12-30 19:06:28]Response body Does not contain expected_msg, expected_msg is access_token
+[ERROR 2020-12-30 19:09:19]Response body Does not contain expected_msg, expected_msg is access_token
+[ERROR 2020-12-30 19:12:01]Response body Does not contain expected_msg, expected_msg is access_token
