@@ -21,4 +21,5 @@
 
 
 查看报告cmd：
+allure generate --clean D:\pycharmpro\API_Automation\Report -o D:\pycharmpro\API_Automation\Report
 allure open D:\pycharmpro\API_Automation\Report\html

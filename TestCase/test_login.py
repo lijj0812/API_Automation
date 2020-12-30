@@ -51,7 +51,7 @@ class TestLogin:
         Consts.RESULT_LIST.append('True')
 
 
-'''
+
     @allure.feature('serviceCould')
     @allure.severity('blocker')
     @allure.story('login')
@@ -83,4 +83,4 @@ class TestLogin:
 #        assert test.assert_code(rep_code, 200)
         assert test.assert_in_text(r.text, "access_token")
         Consts.STRESS_LIST.append(re_time)
-'''
+
