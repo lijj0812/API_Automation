@@ -187,3 +187,7 @@
 [INFO 2020-12-30 19:53:19]解析yaml, Path:D:\pycharmpro\API_Automation/Params/Param/Login.yaml
 [ERROR 2020-12-30 19:53:19]Response body Does not contain expected_msg, expected_msg is access_token
 [INFO 2020-12-30 19:53:25]邮件发送成功
+[INFO 2021-01-04 18:14:38]初始化配置文件, path=D:\pycharmpro\API_Automation\Conf\config.ini
+[INFO 2021-01-04 18:14:39]解析yaml, Path:D:\pycharmpro\API_Automation/Params/Param/Login.yaml
+[ERROR 2021-01-04 18:14:41]Response body Does not contain expected_msg, expected_msg is access_token
+[INFO 2021-01-04 18:14:45]邮件发送成功
